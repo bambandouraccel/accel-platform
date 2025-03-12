@@ -1,6 +1,25 @@
-body {
+/*body {
   color: #566787;
   background: #f5f5f5;
   font-family: 'Varela Round', sans-serif;
   font-size: 13px;
+}*/
+
+body {
+  margin-top: 20px;
+  background: url('./assets/img/background.jpg') no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 13px;
 }
+
+.fixed-bottom {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px 0; /* Espacement interne optionnel */
+  text-align: center;
+  z-index: 10;
+}
+

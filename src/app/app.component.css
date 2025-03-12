@@ -1,10 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
 
 
-body{
+/*body{
   margin-top:20px;
   background:#F0F8FF;
-  }
+}
+*/
+
+/*body {
+  margin-top: 20px;
+  background: url('../assets/img/main.png') no-repeat center center fixed;
+  background-size: cover;
+}*/
+
   .product-grid-style {
       margin-top: 20px
   }
